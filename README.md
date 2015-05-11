@@ -1,4 +1,7 @@
 # squidzilla
-first repository test
-Working on setting up a GitHub repository for my Coursera Data Scientist Toolbox course.
-Kludging my way through this.
+First repository test.
+
+Working on setting up a GitHub repository for my Coursera Data Scientist Toolbox course,
+and kludging my way through this.
+
+The only way to learn is by breaking & fixing, right?
